@@ -1,2 +1,3 @@
 # r_helpers
-helper R functions
+A series of helper functions for R
+load with source(r_helpers.R)
